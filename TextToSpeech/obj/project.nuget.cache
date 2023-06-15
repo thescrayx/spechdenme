@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5QOWodCcNrHs+qiulHDlI4JkuvI5FtZvgUY6rEL0gxQavBwhN2d2W+8iFDuz8eTlMboRgOLoCntO3dS4++Skw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thesc\\OneDrive\\Masaüstü\\speech\\TextToSpeech\\TextToSpeech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thesc\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512",
+    "C:\\Users\\thesc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\thesc\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
